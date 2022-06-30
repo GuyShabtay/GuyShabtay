@@ -1,4 +1,4 @@
-### Hi there![Uploading Waving Hand Joypixels Sticker - Waving Hand Joypixels Hi - Discover & Share GIFs.gif…]()
+### Hi there
   👋  I'm Guy Shabtay
 
 
