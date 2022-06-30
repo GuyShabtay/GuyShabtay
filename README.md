@@ -1,7 +1,7 @@
 ### Hi there 👋  I'm Guy Shabtay
 
+<img src="https://![- Find   Share on GIPHY](https://user-images.githubusercontent.com/94862082/176728131-6b443b2d-b658-487b-bb8d-be0a0e25b7a4.gif)
 
-![- Find   Share on GIPHY](https://user-images.githubusercontent.com/94862082/176728131-6b443b2d-b658-487b-bb8d-be0a0e25b7a4.gif)
 
 
 
