@@ -13,6 +13,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <p align="center">
-<img src="https://user-images.githubusercontent.com/94862082/176728131-6b443b2d-b658-487b-bb8d-be0a0e25b7a4.gif" width="400" height="100"/>
+<img src="https://user-images.githubusercontent.com/94862082/176728131-6b443b2d-b658-487b-bb8d-be0a0e25b7a4.gif" width="400" height="200"/>
 
 </p>
