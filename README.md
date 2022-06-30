@@ -1,7 +1,8 @@
-### Hi there 👋
-Hola, 
-Waving hand animated gif
- I'm Guy Shabtay
+### Hi there 👋  I'm Guy Shabtay
+
+
+
+![tenor](https://user-images.githubusercontent.com/94862082/176726181-5373152b-2e25-469c-8091-7290a10d5d51.gif)
 
 
 
