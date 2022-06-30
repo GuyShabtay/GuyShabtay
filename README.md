@@ -3,7 +3,7 @@
 
 
 
-- :man_student: I am currently completing my sophomore year as a software engineering student
+- :man_student: I am currently completing my second year as a software engineering student
 
 - 🌱 I’m currently learning about Cryptocurrency
 - :computer: I’m  looking for my first job as a software engineer intern
