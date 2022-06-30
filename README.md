@@ -1,5 +1,6 @@
 ### Hi there
-  👋  I'm Guy Shabtay
+  👋  I'm Guy Shabtay![Waving Hand Joypixels Sticker - Waving Hand Joypixels Hi - Discover   Share GIFs](https://user-images.githubusercontent.com/94862082/176742337-f6193834-13eb-44e6-81b4-d0d5397b7323.gif)
+
 
 
 
