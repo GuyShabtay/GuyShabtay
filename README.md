@@ -2,7 +2,7 @@
 
 
 
-
+:pencil2: I am currently completing my sophomore year as a software engineering student
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
