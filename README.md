@@ -1,8 +1,9 @@
 ### Hi there 👋  I'm Guy Shabtay
 
 
+![- Find   Share on GIPHY](https://user-images.githubusercontent.com/94862082/176728131-6b443b2d-b658-487b-bb8d-be0a0e25b7a4.gif)
 
-![tenor](https://user-images.githubusercontent.com/94862082/176726181-5373152b-2e25-469c-8091-7290a10d5d51.gif)
+
 
 
 
