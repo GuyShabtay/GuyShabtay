@@ -5,7 +5,7 @@
 
 - :man_student: I am currently completing my second year as a software engineering student
 
-- 🌱 I’m currently learning about Cryptocurrency
+- 🌱 I’m currently starting to learn about Cryptocurrency
 - :computer: I’m  looking for my first job as a software engineer intern
 - 📫 How to reach me: Email- Guy1179@gmail.com
 - 😄 Pronouns: He/His
