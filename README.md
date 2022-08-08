@@ -3,10 +3,9 @@
 
 
 
-- :man_student: I'm currently finishing my second year as a software engineering student
+- :man_student: 3rd year software engineering student
 
 
-- :computer: I’m  looking for my first job as a software engineer intern
 - 📫 How to reach me: Email- Guy1179@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: The reason I taught myself how to play the guitar, piano and produce electronic music is that using the sense
