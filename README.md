@@ -1,8 +1,8 @@
-<img src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/176b0456-d8b5-4e30-930e-499c14eb3ae9" />
 
 <h1 align="center">Hi there! <img src="https://user-images.githubusercontent.com/94862082/176742337-f6193834-13eb-44e6-81b4-d0d5397b7323.gif" width="40" height="40"/> I'm Guy Shabtay</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
+<img src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/176b0456-d8b5-4e30-930e-499c14eb3ae9" />
 
 
 
