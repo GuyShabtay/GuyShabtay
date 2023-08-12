@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! <img src="https://user-images.githubusercontent.com/94862082/176742337-f6193834-13eb-44e6-81b4-d0d5397b7323.gif" width="40" height="40"/> I'm Guy Shabtay</h1>
-<h2 align="center">A passionate frontend developer</h2>
+<h3 align="center">A passionate frontend developer</h3>
 
 
 
