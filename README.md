@@ -16,7 +16,7 @@
 
 
 - :man_student: 4th year software engineering student
-
+<h3 align="left">A little bit about me:</h3>
 
 - 📫 How to reach me: Email- Guy1179@gmail.com
 - 😄 Pronouns: He/His
