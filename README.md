@@ -11,7 +11,7 @@
 - ⚡ Fun fact: The reason I taught myself how to play the guitar, piano and produce electronic music is that using the sense
      of hearing wasn't enough for me, I wanted to feel the music physically
 <p align="center">
-<img src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/b1603a5f-058b-4e2c-8d6b-a300bbd6fa24" width="500" height="auto"/>
+<img src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/dd61f10d-2620-41fe-9487-1e125403879b" width="500" height="auto"/>
 
 
 
