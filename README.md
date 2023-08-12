@@ -14,10 +14,9 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 </p>
 
-
-- :man_student: 4th year software engineering student
 <h3 align="left">A little bit about me:</h3>
 
+- :man_student: 4th year software engineering student
 - 📫 How to reach me: Email- Guy1179@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: The reason I taught myself how to play the guitar, piano and produce electronic music is that using the sense
