@@ -18,7 +18,7 @@
 
 - :man_student: 4th year software engineering student
 - 📫 How to reach me: Email- Guy1179@gmail.com
-- 😄 Pronouns: He/His
+- 👨‍💻 All of my projects are available at [zzz](zzz)
 - ⚡ Fun fact: The reason I taught myself how to play the guitar, piano and produce electronic music is that using the sense
      of hearing wasn't enough for me, I wanted to feel the music physically
 
