@@ -24,7 +24,9 @@
 
 <h3 align="left">My websites design is:</h3>
 <h4 align="left">Responsive:</h4>
-![6M8I](https://github.com/GuyShabtay/GuyShabtay/assets/94862082/1dc76c65-1480-414e-a82c-5d8fe9cb9122)
+<img src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/1dc76c65-1480-414e-a82c-5d8fe9cb9122" width="40" height="40"/> 
+
+![6M8I]()
 
 
 <h3 align="left">Connect with me:</h3>
