@@ -26,10 +26,10 @@
 <h4 align="left">Responsive & Adaptive:</h4>
 <img src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/1dc76c65-1480-414e-a82c-5d8fe9cb9122" /> 
 <h4 align="left">Intuitive UI:</h4>
-<img src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/7f575278-ab41-44ec-8b6c-392f149808b3" width="485"/> 
+<img src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/7f575278-ab41-44ec-8b6c-392f149808b3" width="480"/> 
 
 <h4 align="left">Seamless UX:</h4>
-<img src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/b0b4de68-fc3f-47ea-ac74-b4303830ab4c" /> 
+<img src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/b0b4de68-fc3f-47ea-ac74-b4303830ab4c" width="480" /> 
 
 
 
