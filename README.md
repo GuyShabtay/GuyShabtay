@@ -22,7 +22,7 @@
 - ⚡ Fun fact: The reason I taught myself how to play the guitar, piano and produce electronic music is that using the sense
      of hearing wasn't enough for me, I wanted to feel the music physically
 
-<h3 align="left">key features of my websites design:</h3>
+<h2 align="center">key features of my websites design</h2>
 <h4 align="left">Responsive & Adaptive:</h4>
 <img src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/1dc76c65-1480-414e-a82c-5d8fe9cb9122" /> 
 <h4 align="left">Intuitive UI:</h4>
