@@ -23,7 +23,7 @@
      of hearing wasn't enough for me, I wanted to feel the music physically
 
 <h3 align="left">My websites design is:</h3>
-<h4 align="left">Responsive:</h4>
+<h4 align="left">Responsive & Adaptive:</h4>
 <img src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/1dc76c65-1480-414e-a82c-5d8fe9cb9122" /> 
 
 
