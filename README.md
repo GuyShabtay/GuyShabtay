@@ -25,7 +25,10 @@
 <h3 align="left">My websites design is:</h3>
 <h4 align="left">Responsive & Adaptive:</h4>
 <img src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/1dc76c65-1480-414e-a82c-5d8fe9cb9122" /> 
+<h4 align="left">Intuitive UI:</h4>
 
+<h4 align="left">Seamless UX:</h4>
+<iframe src="https://giphy.com/embed/3ohhwoWSCtJzznXbuo" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/radio-flip-egg-3ohhwoWSCtJzznXbuo">via GIPHY</a></p>
 
 
 
