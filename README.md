@@ -45,6 +45,8 @@
 <br>
 
 
+<h3 align="left">Some of my projects:</h3>
+
 <h3 align="left">GitHub stats:</h3>
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=guyshabtay&show_icons=true&locale=en&layout=compact" alt="guyshabtay" /></p>
 
