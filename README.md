@@ -28,7 +28,12 @@
 <h4 align="left">Intuitive UI:</h4>
 
 <h4 align="left">Seamless UX:</h4>
-<iframe src="https://giphy.com/embed/3ohhwoWSCtJzznXbuo" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/radio-flip-egg-3ohhwoWSCtJzznXbuo">via GIPHY</a></p>
+<img src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/e03fe416-a09c-4628-a112-1d2568203c4a" /> 
+
+
+
+
+
 
 
 
