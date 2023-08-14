@@ -29,7 +29,8 @@
 <img src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/7f575278-ab41-44ec-8b6c-392f149808b3" width="480"/> 
 
 <h3 align="left">Seamless UX:</h3>
-<img src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/3b724ad2-55f3-4416-827c-431dc2210683" width="480" /> 
+<img src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/c8d05861-c56d-418c-b852-d2948a2b4843" width="480" /> 
+
 
 <h3 align="left">Modular and Reusable code:</h3>
 <img src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/d738c49b-5a2a-4e38-a1fb-b2dddc7562db" width="240" /> 
