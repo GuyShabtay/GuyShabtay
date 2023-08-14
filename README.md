@@ -29,14 +29,7 @@
 <img src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/7f575278-ab41-44ec-8b6c-392f149808b3" width="480"/> 
 
 <h4 align="left">Seamless UX:</h4>
-<img src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/b0b4de68-fc3f-47ea-ac74-b4303830ab4c" width="480" /> 
-
-
-
-
-
-
-
+<img src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/3b724ad2-55f3-4416-827c-431dc2210683" width="480" /> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
