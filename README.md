@@ -23,12 +23,14 @@
      of hearing wasn't enough for me, I wanted to feel the music physically
 
 <h3 align="left">Some of my projects:
-<br>
-<div>
+<br><br>
 <a class="image-link" href="https://www.example.com">
 <img width="500" alt="edgeldger project image" src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/2049c021-549d-4d5f-a379-32a5e17c993f">
 </a>
-</div>
+<a class="image-link" href="https://www.example.com">
+<img width="500" alt="HBT project image" src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/34a2047a-223c-4a33-9c62-6037810c78e5">
+</a>
+
 
 <h2 align="center">key features of my websites design</h2>
 <h3 align="left">Responsive & Adaptive:</h3>
