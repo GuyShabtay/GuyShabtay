@@ -39,7 +39,7 @@
 
 <h3 align="left">Some of my projects:
 <a class="image-link" href="https://www.example.com">
-<img width="300" alt="edgeldger project image" src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/2049c021-549d-4d5f-a379-32a5e17c993f" style="max-width: 100%; height: auto; opacity: 1; transition: opacity 0.3s ease-in-out;">
+<img width="400" alt="edgeldger project image" src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/2049c021-549d-4d5f-a379-32a5e17c993f">
 </a>
 
 <h3 align="left">Connect with me:</h3>
