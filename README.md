@@ -22,6 +22,14 @@
 - ⚡ Fun fact: The reason I taught myself how to play the guitar, piano and produce electronic music is that using the sense
      of hearing wasn't enough for me, I wanted to feel the music physically
 
+<h3 align="left">Some of my projects:
+<br>
+<div>
+<a class="image-link" href="https://www.example.com">
+<img width="500" alt="edgeldger project image" src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/2049c021-549d-4d5f-a379-32a5e17c993f">
+</a>
+</div>
+
 <h2 align="center">key features of my websites design</h2>
 <h3 align="left">Responsive & Adaptive:</h3>
 <img src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/1dc76c65-1480-414e-a82c-5d8fe9cb9122" /> 
@@ -37,11 +45,7 @@
 <img src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/c01729c9-4668-4351-8b9c-b1cd0105460b" width="240" height="240" /> 
 
 
-<h3 align="left">Some of my projects:
-<br>
-<a class="image-link" href="https://www.example.com">
-<img width="500" alt="edgeldger project image" src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/2049c021-549d-4d5f-a379-32a5e17c993f">
-</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
