@@ -16,7 +16,7 @@
 
 <h3 align="left">A little bit about me:</h3>
 
-- :man_student: 3rd year software engineering student
+- :man_student: 4th year software engineering student
 - 📫 How to reach me: Email- Guy1179@gmail.com
 - 👨‍💻 All of my web development skills are self-taught
 - ⚡ Fun fact: The reason I taught myself how to play the guitar, piano and produce electronic music is that using the sense
@@ -37,7 +37,7 @@
 <img src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/c01729c9-4668-4351-8b9c-b1cd0105460b" width="240" height="240" /> 
 
 
-<h3 align="left">Some of my projects:</h3>
+<!--<h3 align="left">Some of my projects:</h3>-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
