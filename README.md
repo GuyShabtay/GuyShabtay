@@ -1,22 +1,4 @@
-<style>
-  /* Style for the link */
-  .image-link {
-    display: inline-block;
-    position: relative;
-    transition: opacity 0.3s ease-in-out;
-  }
 
-  /* Style for the image */
-  .image-link img {
-    max-width: 100%;
-    height: auto;
-  }
-
-  /* Style for the hover effect */
-  .image-link:hover {
-    opacity: 0.8;
-  }
-</style>
 <h1 align="center">Hi there! <img src="https://user-images.githubusercontent.com/94862082/176742337-f6193834-13eb-44e6-81b4-d0d5397b7323.gif" width="40" height="40"/> I'm Guy Shabtay</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
@@ -57,7 +39,7 @@
 
 <h3 align="left">Some of my projects:
 <a class="image-link" href="https://www.example.com">
-<img width="300" alt="edgeldger project image" src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/2049c021-549d-4d5f-a379-32a5e17c993f">
+<img width="300" alt="edgeldger project image" src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/2049c021-549d-4d5f-a379-32a5e17c993f" style="max-width: 100%; height: auto; opacity: 1; transition: opacity 0.3s ease-in-out;">
 </a>
 
 <h3 align="left">Connect with me:</h3>
