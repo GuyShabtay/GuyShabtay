@@ -28,7 +28,7 @@
 <a class="image-link" href="https://www.example.com">
 <img width="500" alt="edgeldger project image" src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/2049c021-549d-4d5f-a379-32a5e17c993f">
 </a>
-<h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hotel BT</h3>
+<h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hotel BT</h3>
 <a class="image-link" href="https://www.example.com">
 <img width="500" alt="HBT project image" src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/34a2047a-223c-4a33-9c62-6037810c78e5">
 </a>
