@@ -24,6 +24,7 @@
 
 <h3 align="left">Some of my projects:
 <br><br>
+<h3>\t\t\t Edgeldger \t\t\t Hotel BT</h3>
 <a class="image-link" href="https://www.example.com">
 <img width="500" alt="edgeldger project image" src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/2049c021-549d-4d5f-a379-32a5e17c993f">
 </a>
