@@ -14,6 +14,8 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/2049c021-549d-4d5f-a379-32a5e17c993f" alt="react" width="40" height="40"/> </a> 
+
 <h3 align="left">A little bit about me:</h3>
 
 - :man_student: 4th year software engineering student
