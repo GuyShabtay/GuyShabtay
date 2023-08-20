@@ -14,10 +14,8 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
 
-<a class="image-link" href="https://edgledger-website.netlify.app/">
-    <img width="500" alt="edgeldger project image" src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/2049c021-549d-4d5f-a379-32a5e17c993f">
-    Edgledger
-</a>
+<a href="https://edgledger-website.netlify.app/">Edgledger</a>
+
 
 
 <h3 align="left">A little bit about me:</h3>
