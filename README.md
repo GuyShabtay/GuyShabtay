@@ -25,7 +25,7 @@
 - ⚡ Fun fact: The reason I taught myself how to play the guitar, piano and produce electronic music is that using the sense
      of hearing wasn't enough for me, I wanted to feel the music physically
 
-<h3 align="left">Some of my projects:</h3>
+<h3 align="left">Visit some of my websites:</h3>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://edgledger-website.netlify.app/" target="_blank" rel="noreferrer">Edgledger</a></p>
