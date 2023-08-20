@@ -25,9 +25,13 @@
 <h3 align="left">Some of my projects:
 <br>
 <h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Edgeldger</h3>
-<a class="image-link" href="https://edgledger-website.netlify.app">
+<a class="image-link" href="https://edgledger-website.netlify.app/">
 <img width="500" alt="edgeldger project image" src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/2049c021-549d-4d5f-a379-32a5e17c993f">
 </a>
+     <a class="image-link" href="https://edgledger-website.netlify.app/">
+    <img width="500" alt="edgeldger project image" src="https://raw.githubusercontent.com/GuyShabtay/GuyShabtay/main/assets/94862082/2049c021-549d-4d5f-a379-32a5e17c993f.png">
+</a>
+
 <h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hotel BT</h3>
 <a class="image-link" href="https://hotelbt-website.netlify.app/">
 <img width="500" alt="HBT project image" src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/34a2047a-223c-4a33-9c62-6037810c78e5">
