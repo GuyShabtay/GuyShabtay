@@ -26,9 +26,9 @@
      of hearing wasn't enough for me, I wanted to feel the music physically
 
 <h3 align="left">Some of my projects:</h3>
-<br>
+<p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-<p><a href="https://edgledger-website.netlify.app/" target="_blank" rel="noreferrer">Edgledger</a></p>
+<a href="https://edgledger-website.netlify.app/" target="_blank" rel="noreferrer">Edgledger</a></p>
 
 <a class="image-link" href="https://edgledger-website.netlify.app/">
 <img width="500" alt="edgeldger project image" src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/2049c021-549d-4d5f-a379-32a5e17c993f" target="_blank" rel="noreferrer">
