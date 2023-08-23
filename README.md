@@ -34,7 +34,7 @@
 <h3 align="left"></h3>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="https://hotelbt-website.netlify.app/" target="_blank" rel="noreferrer">Hotel BT</a></p>
+<a href="https://hotel-ta.netlify.app/" target="_blank" rel="noreferrer">Hotel BT</a></p>
 <img width="500" alt="HBT project image" src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/34a2047a-223c-4a33-9c62-6037810c78e5">
 
 
