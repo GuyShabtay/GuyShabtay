@@ -40,7 +40,7 @@
 <h3 align="left"></h3>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="https://hotel-ta.netlify.app/" target="_blank" rel="noreferrer">Pig Game</a></p>
+<a href="https://piggame-website.netlify.app/" target="_blank" rel="noreferrer">Pig Game</a></p>
 <img width="500" alt="pig game project image" src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/a8b82d6a-32a7-41dc-bb8f-e393d8c92644">
 
 
