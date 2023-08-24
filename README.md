@@ -37,6 +37,12 @@
 <a href="https://hotel-ta.netlify.app/" target="_blank" rel="noreferrer">Hotel TA</a></p>
 <img width="500" alt="HBT project image" src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/34a2047a-223c-4a33-9c62-6037810c78e5">
 
+<h3 align="left"></h3>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://hotel-ta.netlify.app/" target="_blank" rel="noreferrer">Pig Game</a></p>
+<img width="500" alt="pig game project image" src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/a8b82d6a-32a7-41dc-bb8f-e393d8c92644">
+
 
 <h2 align="center">key features of my websites design</h2>
 <h3 align="left">Responsive & Adaptive:</h3>
