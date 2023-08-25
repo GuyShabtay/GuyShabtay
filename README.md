@@ -35,7 +35,7 @@
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://hotel-ta.netlify.app/" target="_blank" rel="noreferrer">Hotel TA</a></p>
-<img width="500" alt="HBT project image" src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/34a2047a-223c-4a33-9c62-6037810c78e5">
+<img width="500" alt="HTA project image" src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/812bdcbc-7e7f-4f6d-951a-ddd93f5a9c73">
 
 <h3 align="left"></h3>
 <p>
