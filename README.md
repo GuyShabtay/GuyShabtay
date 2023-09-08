@@ -34,8 +34,8 @@
 <h3 align="left"></h3>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="https://edgledger-website.netlify.app/" target="_blank" rel="noreferrer">Edgledger</a></p>
-<img width="500" alt="edgeldger project image" src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/2049c021-549d-4d5f-a379-32a5e17c993f" >
+<a href="https://x-drone.netlify.app/" target="_blank" rel="noreferrer">X-Drone</a></p>
+<img width="500" alt="X-Drone project image" src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/9522a629-39cd-4159-9411-2e034072fc1d">
 
 <h3 align="left"></h3>
 <p>
