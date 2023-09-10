@@ -50,7 +50,7 @@
 <img width="500" alt="pig game project image" src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/a8b82d6a-32a7-41dc-bb8f-e393d8c92644">
 
 
-<h2 align="center">key features of my websites design</h2>
+<h2 align="center">Key features of my websites design</h2>
 <h3 align="left">Responsive & Adaptive:</h3>
 <img src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/1dc76c65-1480-414e-a82c-5d8fe9cb9122" /> 
 <h3 align="left">Intuitive UI:</h3>
