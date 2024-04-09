@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there! <img src="https://user-images.githubusercontent.com/94862082/176742337-f6193834-13eb-44e6-81b4-d0d5397b7323.gif" width="40" height="40"/> I'm Guy Shabtay</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate fullstack developer</h3>
 
 <img src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/176b0456-d8b5-4e30-930e-499c14eb3ae9" />
 <h3 align="left">Languages and Tools:</h3>
@@ -36,6 +36,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://x-drone.netlify.app/" target="_blank" rel="noreferrer">X-Drone</a></p>
 <img width="500" alt="X-Drone project image" src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/9522a629-39cd-4159-9411-2e034072fc1d">
+
+<h3 align="left"></h3>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://ed-it.onrender.com/" target="_blank" rel="noreferrer">ED-IT!</a></p>
+<img width="500" alt="ED-IT project image" src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/6bb85249-6d7f-496f-85c4-799908dbb388">
+
 
 <h3 align="left"></h3>
 <p>
