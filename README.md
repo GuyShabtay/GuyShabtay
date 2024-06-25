@@ -28,8 +28,8 @@
 <h3 align="left">Visit some of my websites:</h3>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="https://my-gradient-generator.netlify.app/" target="_blank" rel="noreferrer">CSS Gradient Generator</a></p>
-<img width="500" alt="css gradient generator project image" src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/6dfb0e7c-f393-4912-93e8-0501dbc9ab6e">
+<a href="https://profinder-vzbv.onrender.com/" target="_blank" rel="noreferrer">ProFinder</a></p>
+<img width="500" alt="profiner project image" src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/5cb7a4d6-65e6-440e-ad24-0439daca3b23">
 
 <h3 align="left"></h3>
 <p>
@@ -43,6 +43,11 @@
 <a href="https://ed-it.onrender.com/" target="_blank" rel="noreferrer">ED-IT!</a></p>
 <img width="500" alt="ED-IT project image" src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/6bb85249-6d7f-496f-85c4-799908dbb388">
 
+<h3 align="left"></h3>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://my-gradient-generator.netlify.app/" target="_blank" rel="noreferrer">CSS Gradient Generator</a></p>
+<img width="500" alt="css gradient generator project image" src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/6dfb0e7c-f393-4912-93e8-0501dbc9ab6e">
 
 <h3 align="left"></h3>
 <p>
