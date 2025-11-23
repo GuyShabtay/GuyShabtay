@@ -28,6 +28,12 @@
 <h3 align="left">Visit some of my websites:</h3>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://code-vision.onrender.com" target="_blank" rel="noreferrer">Code Vision</a></p>
+<img width="500" alt="Code Vision project image" src="https://github.com/user-attachments/assets/2048ccb9-86d7-43f4-9e53-231b0bcf8af0">
+
+<h3 align="left"></h3>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://profinder-vzbv.onrender.com/" target="_blank" rel="noreferrer">ProFinder</a></p>
 <img width="500" alt="profiner project image" src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/5cb7a4d6-65e6-440e-ad24-0439daca3b23">
 
@@ -49,11 +55,11 @@
 <a href="https://my-gradient-generator.netlify.app/" target="_blank" rel="noreferrer">CSS Gradient Generator</a></p>
 <img width="500" alt="css gradient generator project image" src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/6dfb0e7c-f393-4912-93e8-0501dbc9ab6e">
 
-<h3 align="left"></h3>
+<!-- <h3 align="left"></h3>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://wallpaperz-online.netlify.app/" target="_blank" rel="noreferrer">WALLPAPERZ</a></p>
-<img width="500" alt="WALLPAPERZ project image" src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/b481f658-5682-4052-9a4e-b58268e3767e">
+<img width="500" alt="WALLPAPERZ project image" src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/b481f658-5682-4052-9a4e-b58268e3767e"> -->
 
 <h2 align="center">Key features of my websites design</h2>
 <h3 align="left">Responsive & Adaptive:</h3>
