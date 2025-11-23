@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there! <img src="https://user-images.githubusercontent.com/94862082/176742337-f6193834-13eb-44e6-81b4-d0d5397b7323.gif" width="40" height="40"/> I'm Guy Shabtay</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 <img src="https://github.com/GuyShabtay/GuyShabtay/assets/94862082/176b0456-d8b5-4e30-930e-499c14eb3ae9" />
 <h3 align="left">Languages and Tools:</h3>
@@ -19,7 +19,7 @@
 
 <h3 align="left">A little bit about me:</h3>
 
-- :man_student: 4th year software engineering student
+
 - 📫 How to reach me: Email- Guy1179@gmail.com
 - 👨‍💻 All of my web development skills are self-taught
 - ⚡ Fun fact: The reason I taught myself how to play the guitar, piano and produce electronic music is that using the sense
