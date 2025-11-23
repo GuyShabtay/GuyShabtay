@@ -19,7 +19,7 @@
 
 <h3 align="left">A little bit about me:</h3>
 
-
+- 🎓 Degree: B.Sc in Software Engineering
 - 📫 How to reach me: Email- Guy1179@gmail.com
 - 👨‍💻 All of my web development skills are self-taught
 - ⚡ Fun fact: The reason I taught myself how to play the guitar, piano and produce electronic music is that using the sense
